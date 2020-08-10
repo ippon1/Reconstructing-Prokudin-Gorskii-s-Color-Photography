@@ -7,7 +7,7 @@ function assignment1()
     imtool close all;   % Close all figure windows created by imtool. 
     workspace; % Make sure the workspace panel is showing. 
     
-    imagesName = {'00125', '00149', '00153', '00351', '00398', '01112'};
+    imagesName = {'00125', '00149', '00153', '00351', '00398', '01112'}; % TODO edit here
     fileStoringLocation = 'results/';
 
     for i = imagesName
