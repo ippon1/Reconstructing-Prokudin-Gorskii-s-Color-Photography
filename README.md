@@ -13,5 +13,5 @@ There are sets of glass plate images made available by the Library of Congress, 
 * [Prokudin-Gorskii Collection](https://www.loc.gov/collections/prokudin-gorskii/?st=list&c=150)
 * [Sergey Prokudin-Gorsky Wikipedia](https://en.wikipedia.org/wiki/Sergey_Prokudin-Gorsky#Gallery)
 
-
+## Acknowledgment
 This program was built for the lecture [Computer Vision](https://cvl.tuwien.ac.at/course/computer-vision-vu/) at [TU Wien](https://cvl.tuwien.ac.at).
