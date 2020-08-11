@@ -1,4 +1,4 @@
-function assignment1()
+function colorChannelsReconstruction()
     %pkg load image % only for octave
     
     clc;    % Clear command window. 
